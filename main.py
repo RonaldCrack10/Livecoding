@@ -1,4 +1,4 @@
-
+print('Hello, Crack')
 
 def add(a, b):
     return a + b
@@ -7,8 +7,8 @@ def substract(a, b):
     return a - b 
 
 def multiply(a, b):
-    return a * b
+    return a*b
 
 print("Hello World")
 
-print("timon hat kleine eier")
+print("Theo hat dicke Muskeln")
